@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "postgres": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-postgres",
+        "postgresql://mcp_readonly:17720010@localhost:5432/local_dev_db"
+      ]
+    }
+    
+  }
+}
