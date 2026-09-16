@@ -26,7 +26,7 @@ export const HIGHLIGHTS = [
   {
     id: 'matches',
     icon: '⚽',
-    title: '104 Matches',
+    title: '105 Matches',
     description:
       'A record number of matches will be played over five weeks, culminating in the final on July 19, 2026.',
   },
